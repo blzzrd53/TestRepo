@@ -9,13 +9,7 @@
 #include <iostream>
 using namespace std;
 
-//This is a test Comment
-
-//From Desktop
-
-//Laptop
-
-//Desktop
+//Last Test
 
 int main() {
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
